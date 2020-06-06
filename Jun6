@@ -1,24 +1,2 @@
-#EXTINF:-1,MBC 1
-http://samsat.tv:8080/live/123/123/44385.m3u8
-#EXTINF:-1,MBC 2
-http://samsat.tv:8080/live/123/123/44386.m3u8
-#EXTINF:-1,MBC 3
-http://samsat.tv:8080/live/123/123/44387.m3u8
-#EXTINF:-1,MBC 4
-http://samsat.tv:8080/live/123/123/44388.m3u8
-#EXTINF:-1,MBC 5
-http://samsat.tv:8080/live/123/123/44389.m3u8
-#EXTINF:-1,MBC Action
-http://samsat.tv:8080/live/123/123/44390.m3u8
-#EXTINF:-1,MBC Drama
-http://samsat.tv:8080/live/123/123/44392.m3u8
-#EXTINF:-1,MBC Bollywood
-http://samsat.tv:8080/live/123/123/44391.m3u8
-#EXTINF:-1,MBC MAX
-http://samsat.tv:8080/live/123/123/44393.m3u8
-#EXTINF:-1,MBC IRAQ
-http://samsat.tv:8080/live/123/123/44384.m3u8
-#EXTINF:-1,MBCODE TV
-http://samsat.tv:8080/live/123/123/44563.m3u8
-#EXTINF:-1,Rotana Cinema EGY
-http://samsat.tv:8080/live/123/123/44395.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8      	
+http://rtmp1.abnsat.com/hls/arabic.m3u8
